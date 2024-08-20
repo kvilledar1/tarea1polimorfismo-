@@ -1,1 +1,1 @@
-en la carpeta origen hospital 
+en la carpeta Hospital poli luego  origen hospital 
